@@ -64,5 +64,5 @@ If you want to contribute to this project, follow these steps:
 6. Create a pull request on the original repository to propose your changes.
 
 
-Enjoy the convenience of a digital clock on your website or application![Digital clock demo](https://digital-clock-ten-puce.vercel.app/) If you have any questions or feedback, feel free to contact the project maintainers.
+Enjoy the convenience of a digital clock on your website or application! [Digital clock demo](https://digital-clock-ten-puce.vercel.app/) If you have any questions or feedback, feel free to contact the project maintainers.
 
